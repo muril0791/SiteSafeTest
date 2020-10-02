@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body#corpo{
+    background-color: rgb(99, 199, 245);
+}
+body#corpo p{   
+    text-align: left;
+    margin: 15px 15px 15px 15px;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12pt;
+}
+body#corpo h1 {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25pt;
+    color: black;
+}
+body#corpo h2 {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25pt;
+    color: rgb(0, 0, 0);
+}
+body#fieldset {
+    margin: 10px 10px 10px 10px;
+}
+body#fieldset input#btnavaliar {
+    padding: 10px;
+    margin: 10px;
+    background-color: skyblue;
+    
+}
